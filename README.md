@@ -1,16 +1,17 @@
-## Hi there 👋
+# README
 
-<!--
-**sirdso/sirdso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Welcome to my personal repository! I'm new to GitHub and currently learning to code. I'm passionate about computer science and eager to improve my skills.
 
-Here are some ideas to get you started:
+## About Me
+- **Interests**: Computer Science, Coding, Learning new technologies
+- **Goals**: To become proficient in coding and contribute to open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I haven't started any projects yet, but stay tuned as I plan to add some soon!
+
+## Learning Journey
+I'm documenting my learning process and sharing things I learn along the way. Feel free to follow along and learn with me!
+
+## Contact
+You can reach me at github@sds.8shield.net or connect with me on https://www.linkedin.com/in/sirdso/
