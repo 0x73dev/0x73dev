@@ -4,7 +4,7 @@
 Welcome to my personal repository! I'm new to GitHub and currently learning to code. I'm passionate about computer science and eager to improve my skills.
 
 ## About Me
-- **Interests**: Computer Science, Coding, Learning new technologies
+- **Interests**: Computer Science, Coding, Artificial Intelligence, Learning new technologies
 - **Goals**: To become proficient in coding and contribute to open-source projects
 
 ## Projects
