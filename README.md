@@ -14,4 +14,4 @@ I haven't started any projects yet, but stay tuned as I plan to add some soon!
 I'm documenting my learning process and sharing things I learn along the way. Feel free to follow along and learn with me!
 
 ## Contact
-You can reach me at github@shayden@tech or connect with me on https://www.linkedin.com/in/sirdso/
+You can reach me at github@shayden.tech or connect with me on https://www.linkedin.com/in/sirdso/
